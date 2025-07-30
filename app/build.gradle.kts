@@ -41,6 +41,9 @@ android {
 
 dependencies {
 
+    implementation("com.google.android.material:material:1.11.0")
+    implementation("androidx.gridlayout:gridlayout:1.0.0")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("net.objecthunter:exp4j:0.4.8")
     implementation(libs.appcompat)
     implementation(libs.androidx.core.ktx)

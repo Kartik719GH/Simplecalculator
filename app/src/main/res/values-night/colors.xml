@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calc_button_bg">#444444</color> <!-- Dark theme button background -->
+    <color name="display_background">#000000</color> <!-- Black -->
+
+</resources>
